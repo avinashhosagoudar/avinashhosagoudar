@@ -19,7 +19,7 @@
 
 
 <br>
-<p align="center"> 📫 How to reach me - <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><strong>vijay.bk698@gmail.com</strong></a></p>
+<p align="center"> 📫 How to reach me - <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><strong>avinashbaleshhosagoudar@gmail.com</strong></a></p>
 
 <ul align="center">
   <h2 style="display: inline-block">Languages</h2>
@@ -71,13 +71,5 @@
     <img src="https://skillicons.dev/icons?i=git,aws,github,vscode,figma,ae,pr,xd,ps,atom,linux&perline=15" />
   </a>
 </ul>
- 
-   
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/vijaykonakeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijaykonakeri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-konakeri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-konakeri/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vijay_bk698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vijay_bk698" height="30" width="40" /></a>
-</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vijay-konakeri&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-konakeri" /> </p>
+
