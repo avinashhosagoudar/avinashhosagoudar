@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
-<h3 align="center">I’m a Computer Science 2nd year BCA, I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">I come with an extensive experience of working with different technologies including Artificial Inteligence, Data Analytics, Data Science, Machine Learning and Deep Learning.</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
